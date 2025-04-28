@@ -9,4 +9,4 @@ NewSpaceConfig.BossMenu = {
         ['mechanic'] = vector3(419.2987, -990.7612, 29.3233),
         ['taxi'] = vector3(907.24, -160.26, 74.17)
     },
-},
+}
