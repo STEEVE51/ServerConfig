@@ -4,7 +4,7 @@ NewSpaceConfig = {}
 NewSpaceConfig.BossMenu = {
     -- tu peux ajouter des jobs ici
     Positions = {
-        ['police'] = vector3(433.8358, -978.2630, 30.7096),
+        ['police'] = vector3(104.6285, -958.7578, 29.7254),
         ['ambulance'] = vector3(335.46, -594.52, 43.28),
         ['mechanic'] = vector3(408.3563, -972.0017, 29.3651),
         ['taxi'] = vector3(907.24, -160.26, 74.17)
