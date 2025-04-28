@@ -1,0 +1,1 @@
+local data = "je test un truc"
