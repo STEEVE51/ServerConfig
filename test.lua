@@ -8,7 +8,6 @@ NewSpaceConfig.BossMenu = {
         ['ambulance'] = vector3(335.46, -594.52, 43.28),
         ['mechanic'] = vector3(408.3563, -972.0017, 29.3651),
         ['taxi'] = vector3(907.24, -160.26, 74.17)
-        SC<DVC
     },
     
      -- Grades requis pour accéder au menu boss
