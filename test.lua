@@ -95,6 +95,16 @@ NewSpaceConfig.Superette = {
             image = "nui://ox_inventory/web/images/fixkit.png",
             itemName = "fixkit"
         },
+
+        ["notepad"] = {
+            id = "notepad",
+            name = "Cahier de notes",
+            description = "Cahier de notes",
+            price = 50,
+            category = "outils",
+            image = "nui://ox_inventory/web/images/notepad.png",
+            itemName = "notepad"
+        },
         
         -- Divers
         ["phone"] = {
