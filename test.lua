@@ -2,6 +2,8 @@ NewSpaceConfig = {}
 
 
 NewSpaceConfig.BossMenu = {
+    -- Rayon d'interaction pour ox_target
+    TargetRadius = 0.7
     -- tu peux ajouter des jobs ici
     Positions = {
         ['police'] = vector3(2511.7, -423.06, 106.91),
