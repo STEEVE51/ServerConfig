@@ -22,10 +22,17 @@ NewSpaceConfig.BossMenu = {
     
      -- Grades requis pour accéder au menu boss
     RequiredGrades = {
-        ['police'] = 4,
-        ['ambulance'] = 3,
+        ['police'] = 9,
+        ['ambulance'] = 7,
         ['mechanic'] = 3,
-        ['taxi'] = 2
+        ['taxi'] = 2,
+        ['mechanic1'] = 2,
+        ['gouv'] = 6,
+        ['pizeria'] = 3,
+        ['uwu'] = 2,
+        ['bahamas'] = 2,
+        ['vanilla'] = 2,
+        ['flamingo'] = 2,
     },
     
 }
@@ -138,8 +145,8 @@ NewSpaceConfig.Superette = {
 
     Localisation = {
         {
-            name = "Superette Nord",
-            coords = vector3(25.7, -1346.6, 29.5),
+            name = "Superette",
+            coords = vector3(-47.683518, -1757.076904, 29.414672),
             heading = 265.0,
             blip = {
                 sprite = 52,
@@ -148,15 +155,175 @@ NewSpaceConfig.Superette = {
             }
         },
         {
-            name = "Superette Centre",
-            coords = vector3(-47.522, -1757.371, 29.421),
-            heading = 45.0,
+            name = "Superette",
+            coords = vector3(25.635164, -1346.887940, 29.482056),
+            heading = 265.0,
             blip = {
                 sprite = 52,
                 color = 2,
                 scale = 0.8
             }
-        }
+        },
+        {
+            name = "Superette",
+            coords = vector3(-707.419800, -914.228576, 19.203614),
+            heading = 265.0,
+            blip = {
+                sprite = 52,
+                color = 2,
+                scale = 0.8
+            }
+        },
+        {
+            name = "Superette",
+            coords = vector3(-1486.971436, -379.358246, 40.147950),
+            heading = 265.0,
+            blip = {
+                sprite = 52,
+                color = 2,
+                scale = 0.8
+            }
+        },
+        {
+            name = "Superette",
+            coords = vector3(373.885712, 326.729676, 103.553834),
+            heading = 265.0,
+            blip = {
+                sprite = 52,
+                color = 2,
+                scale = 0.8
+            }
+        },
+        {
+            name = "Superette",
+            coords = vector3(-1222.496704, -906.909912, 12.312134),
+            heading = 265.0,
+            blip = {
+                sprite = 52,
+                color = 2,
+                scale = 0.8
+            }
+        },
+        {
+            name = "Superette",
+            coords = vector3(1135.714234, -982.720886, 46.399292),
+            heading = 265.0,
+            blip = {
+                sprite = 52,
+                color = 2,
+                scale = 0.8
+            }
+        },
+        {
+            name = "Superette",
+            coords = vector3(1163.459350, -323.116486, 69.197022),
+            heading = 265.0,
+            blip = {
+                sprite = 52,
+                color = 2,
+                scale = 0.8
+            }
+        },
+        {
+            name = "Superette",
+            coords = vector3(2556.830810, 382.101104, 108.608764),
+            heading = 265.0,
+            blip = {
+                sprite = 52,
+                color = 2,
+                scale = 0.8
+            }
+        },
+        {
+            name = "Superette",
+            coords = vector3(-2967.824218, 390.936280, 15.041748),
+            heading = 265.0,
+            blip = {
+                sprite = 52,
+                color = 2,
+                scale = 0.8
+            }
+        },
+        {
+            name = "Superette",
+            coords = vector3(-3039.481202, 585.705506, 7.897460),
+            heading = 265.0,
+            blip = {
+                sprite = 52,
+                color = 2,
+                scale = 0.8
+            }
+        },
+        {
+            name = "Superette",
+            coords = vector3(-3242.597900, 1001.221984, 12.817626),
+            heading = 265.0,
+            blip = {
+                sprite = 52,
+                color = 2,
+                scale = 0.8
+            }
+        },
+        {
+            name = "Superette",
+            coords = vector3(547.859314, 2670.633056, 42.153076),
+            heading = 265.0,
+            blip = {
+                sprite = 52,
+                color = 2,
+                scale = 0.8
+            }
+        },
+        {
+            name = "Superette",
+            coords = vector3(2678.254882, 3280.747314, 55.228516),
+            heading = 265.0,
+            blip = {
+                sprite = 52,
+                color = 2,
+                scale = 0.8
+            }
+        },
+        {
+            name = "Superette",
+            coords = vector3(1393.120850, 3605.129638, 34.975098),
+            heading = 265.0,
+            blip = {
+                sprite = 52,
+                color = 2,
+                scale = 0.8
+            }
+        },
+        {
+            name = "Superette",
+            coords = vector3(1960.997802, 3741.098876, 32.329712),
+            heading = 265.0,
+            blip = {
+                sprite = 52,
+                color = 2,
+                scale = 0.8
+            }
+        },
+        {
+            name = "Superette",
+            coords = vector3(1698.764892, 4923.982422, 42.052002),
+            heading = 265.0,
+            blip = {
+                sprite = 52,
+                color = 2,
+                scale = 0.8
+            }
+        },
+        {
+            name = "Superette",
+            coords = vector3(1729.345092, 6415.345214, 35.025634),
+            heading = 265.0,
+            blip = {
+                sprite = 52,
+                color = 2,
+                scale = 0.8
+            }
+        },
         -- Ajoutez plus de locations ici
 
     }
